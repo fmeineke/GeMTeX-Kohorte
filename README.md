@@ -182,4 +182,4 @@ Entfernt alle selbst erzeugten Dateien:
 
 ## Lizenz
 
-_(Lizenz hier ergänzen — z. B. MIT.)_
+[MIT](LICENSE) — siehe Datei [`LICENSE`](LICENSE).
