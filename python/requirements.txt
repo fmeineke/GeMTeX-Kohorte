@@ -1,0 +1,3 @@
+# Python-Abhängigkeiten für GeMTeX-Kohorte
+# Installation:  python3 -m pip install -r python/requirements.txt
+requests>=2.28
