@@ -1,12 +1,12 @@
 # GeMTeX-Kohorte — Anleitung für DIZ
 
-Dieses Repository beschreibt die **Kohorten-Analyse des GeMTeX-Projekts** auf
+Dieses Repository beschreibt die **Integration-** und **Kohorten-Analyse des GeMTeX-Projekts** auf
 Basis des **FHIR-R4**-Standards (MII-Kerndatensatz, Module Dokument/Fall).
 
 Die Analyse bündelt die Patienten mit mindestens einer `DocumentReference`
 (Arztbrief/Entlassbrief) an einem FHIR-Server zu einer **Kohorte** und liefert
 beschreibende Kennzahlen zu Geschlecht, Alter, Fachabteilungen, Liegezeit,
-Diagnosen (ICD-10) und Dokumentarten.
+Diagnosen (ICD-10) und Dokumentarten. 
 
 **Für die DIZ** (Betreiber der FHIR-Server, die die Daten zu GeMTeX beisteuern)
 ist der Ablauf bewusst schlank gehalten:
